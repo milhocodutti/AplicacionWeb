@@ -1,0 +1,70 @@
+html,body {
+width:100%;
+height:90%;
+background-color: #c3edd7;
+color: #e6d8d9;
+margin: auto;
+text-align: center;
+margin: auto ;
+font-family: Arial black;
+
+
+
+}
+section {
+    width:100%;
+    height:100%;
+background-color: #ffc5d1;
+
+border-radius: 50px;
+
+
+
+}
+#iconoAlimento {
+width:150px;
+height:150px;
+
+background: url("imagenes2/iconoAlimento.png");
+background-repeat: no-repeat;
+background-position: center center;
+background-size: contain;
+text-align: center;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+footer, header{
+    height: auto;
+    text-align: center;
+    margin: auto ;
+    
+color:  #83676b;
+
+    width: auto;
+}
+
+.padre {
+    position: relative;
+ }
+ .hijo {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 50%;
+    height: 30%;
+    margin: auto;
+ }
